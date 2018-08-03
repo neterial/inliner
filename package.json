@@ -56,6 +56,7 @@
   "bin": {
     "inliner": "cli/index.js"
   },
+  "version": "1.3.1b",
   "devDependencies": {
     "ghooks": "^1.1.1",
     "jscs": "^2.0.0",
